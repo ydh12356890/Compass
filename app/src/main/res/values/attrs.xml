@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CompassView">
+        <attr name="cv_lineColor" format="color" />
+        <attr name="cv_keyLineColor" format="color" />
+        <attr name="cv_mainLineColor" format="color" />
+        <attr name="cv_edgeTextColor" format="color" />
+        <attr name="cv_orientationTextColor" format="color" />
+        <attr name="cv_angleTextColor" format="color" />
+
+        <!--线段的数量-->
+        <attr name="cv_divideCount" format="integer" />
+        <attr name="cv_isDebug" format="boolean" />
+
+
+    </declare-styleable>
+</resources>
